@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "codeceptjs": "^3.4.1",
+    "playwright": "^1.33.0"
+  },
+  "name": "projeto01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
